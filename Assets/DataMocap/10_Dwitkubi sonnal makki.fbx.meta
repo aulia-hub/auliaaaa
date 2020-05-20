@@ -1,0 +1,1046 @@
+fileFormatVersion: 2
+guid: d9410aa8cf67adb43ba0bac8df3ea7a6
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -4818362742162433020
+    second: part 1_009
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'part 1_009' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'adi1:ChestNull' has translation animation
+      that will be discarded.\n\t'adi1:ChestNull' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'adi1:HeadNull' has translation
+      animation that will be discarded.\n\t'adi1:LHandNull' has translation animation
+      that will be discarded.\n\t'adi1:RHandNull' has translation animation that
+      will be discarded.\n\t'adi1:LFootNull' has translation animation that will
+      be discarded.\n\t'adi1:RFootNull' has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: part 1_009
+      takeName: part 1_009
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 992
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: adi1:HipNull
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LThighNull
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RThighNull
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LShinNull
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RShinNull
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LFootNull
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RFootNull
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:AbNull
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:NeckNull
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:HeadNull
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LShoulderNull
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RShoulderNull
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LUArmNull
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RUArmNull
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LFArmNull
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RFArmNull
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LHandNull
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RHandNull
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LToeNull
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RToeNull
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LThumb1Null
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LThumb2Null
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LThumb3Null
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LIndex1Null
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LIndex2Null
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LIndex3Null
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LMiddle1Null
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LMiddle2Null
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LMiddle3Null
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LRing1Null
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LRing2Null
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LRing3Null
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LPinky1Null
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LPinky2Null
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:LPinky3Null
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RThumb1Null
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RThumb2Null
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RThumb3Null
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RIndex1Null
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RIndex2Null
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RIndex3Null
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RMiddle1Null
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RMiddle2Null
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RMiddle3Null
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RRing1Null
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RRing2Null
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RRing3Null
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RPinky1Null
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RPinky2Null
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: adi1:RPinky3Null
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: part 1_009(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:optical
+      parentName: part 1_009(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_WaistLFront
+      parentName: C3D:optical
+      position: {x: -0.11226, y: 0.83028996, z: -1.04736}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_WaistRFront
+      parentName: C3D:optical
+      position: {x: 0.05573, y: 0.80276, z: -1.09982}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_WaistLBack
+      parentName: C3D:optical
+      position: {x: -0.17479, y: 0.91188, z: -1.2707399}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_WaistRBack
+      parentName: C3D:optical
+      position: {x: -0.00205, y: 0.90822, z: -1.30677}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_BackTop
+      parentName: C3D:optical
+      position: {x: -0.12194999, y: 1.199, z: -1.34239}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_Chest
+      parentName: C3D:optical
+      position: {x: -0.01597, y: 1.16142, z: -1.12667}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_BackLeft
+      parentName: C3D:optical
+      position: {x: -0.20726, y: 1.06906, z: -1.30166}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_BackRight
+      parentName: C3D:optical
+      position: {x: -0.00244, y: 1.08032, z: -1.3710699}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_HeadTop
+      parentName: C3D:optical
+      position: {x: -0.08367, y: 1.5458299, z: -1.2457}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_HeadFront
+      parentName: C3D:optical
+      position: {x: -0.05616, y: 1.51029, z: -1.13034}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_HeadSide
+      parentName: C3D:optical
+      position: {x: 0.00935, y: 1.4977299, z: -1.26155}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LShoulderBack
+      parentName: C3D:optical
+      position: {x: -0.26812, y: 1.13499, z: -1.25098}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LShoulderTop
+      parentName: C3D:optical
+      position: {x: -0.19171, y: 1.25726, z: -1.20714}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LElbowOut
+      parentName: C3D:optical
+      position: {x: -0.27215, y: 0.94648, z: -1.04025}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LUArmHigh
+      parentName: C3D:optical
+      position: {x: -0.28366, y: 1.04755, z: -1.1386299}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LWristOut
+      parentName: C3D:optical
+      position: {x: -0.27216, y: 0.78359, z: -0.85657996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LFArm
+      parentName: C3D:optical
+      position: {x: -0.17909, y: 0.88097996, z: -0.94113}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LHandOut
+      parentName: C3D:optical
+      position: {x: -0.27822998, y: 0.69807, z: -0.82181996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LHandIn
+      parentName: C3D:optical
+      position: {x: -0.18736999, y: 0.73386, z: -0.81021}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LThumb
+      parentName: C3D:optical
+      position: {x: -0.15996, y: 0.72556996, z: -0.84832}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LIndex
+      parentName: C3D:optical
+      position: {x: -0.17742, y: 0.67987996, z: -0.83378994}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LPinky
+      parentName: C3D:optical
+      position: {x: -0.27166, y: 0.67190003, z: -0.84678}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RShoulderBack
+      parentName: C3D:optical
+      position: {x: 0.00556, y: 1.15509, z: -1.3994999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RShoulderTop
+      parentName: C3D:optical
+      position: {x: 0.03791, y: 1.28099, z: -1.3115}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RElbowOut
+      parentName: C3D:optical
+      position: {x: 0.10616999, y: 0.97897, z: -1.5003101}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RUArmHigh
+      parentName: C3D:optical
+      position: {x: 0.054679997, y: 1.0875499, z: -1.44455}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RWristOut
+      parentName: C3D:optical
+      position: {x: 0.11559, y: 0.82851994, z: -1.26473}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RFArm
+      parentName: C3D:optical
+      position: {x: 0.12169, y: 0.94922996, z: -1.3290299}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RHandOut
+      parentName: C3D:optical
+      position: {x: 0.09392, y: 0.83348, z: -1.17846}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RHandIn
+      parentName: C3D:optical
+      position: {x: 0.18879, y: 0.83978, z: -1.1484}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RThumb
+      parentName: C3D:optical
+      position: {x: 0.20656, y: 0.88507, z: -1.17342}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RIndex
+      parentName: C3D:optical
+      position: {x: 0.16950999, y: 0.88684, z: -1.13842}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RPinky
+      parentName: C3D:optical
+      position: {x: 0.08823, y: 0.86436, z: -1.16003}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LKneeOut
+      parentName: C3D:optical
+      position: {x: -0.27806997, y: 0.44282, z: -0.92346}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LThigh
+      parentName: C3D:optical
+      position: {x: -0.16037999, y: 0.67336994, z: -0.97515994}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LAnkleOut
+      parentName: C3D:optical
+      position: {x: -0.34429, y: 0.009579999, z: -0.91545}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LShin
+      parentName: C3D:optical
+      position: {x: -0.26457, y: 0.21393998, z: -0.88275}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LToeOut
+      parentName: C3D:optical
+      position: {x: -0.32467, y: -0.01206, z: -0.81037}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LToeIn
+      parentName: C3D:optical
+      position: {x: -0.23052, y: 0.0027700001, z: -0.81907994}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LHeel
+      parentName: C3D:optical
+      position: {x: -0.29896, y: -0.00367, z: -1.0216999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_LToeTip
+      parentName: C3D:optical
+      position: {x: -0.25473, y: -0.014789999, z: -0.76421}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RKneeOut
+      parentName: C3D:optical
+      position: {x: 0.11998, y: 0.40655, z: -1.35138}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RThigh
+      parentName: C3D:optical
+      position: {x: 0.06814, y: 0.48521, z: -1.1920099}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RAnkleOut
+      parentName: C3D:optical
+      position: {x: 0.070949994, y: 0.047119997, z: -1.56388}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RShin
+      parentName: C3D:optical
+      position: {x: 0.090349995, y: 0.28237, z: -1.3509599}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RToeOut
+      parentName: C3D:optical
+      position: {x: 0.17476, y: -0.02355, z: -1.5116299}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RToeIn
+      parentName: C3D:optical
+      position: {x: 0.094680004, y: -0.011979999, z: -1.42593}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RHeel
+      parentName: C3D:optical
+      position: {x: -0.01613, y: 0.022880001, z: -1.5907999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:adi1_RToeTip
+      parentName: C3D:optical
+      position: {x: 0.181, y: -0.01421, z: -1.4273499}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:HipNull
+      parentName: part 1_009(Clone)
+      position: {x: 0, y: 0.89301866, z: 0}
+      rotation: {x: 0.1140486, y: -0.053260095, z: 0.007150134, w: 0.9920208}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:AbNull
+      parentName: adi1:HipNull
+      position: {x: -0, y: 0.074559994, z: 0}
+      rotation: {x: -0.11912015, y: 0.04450687, z: -0.0123018995, w: 0.99180555}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:ChestNull
+      parentName: adi1:AbNull
+      position: {x: -0, y: 0.15766, z: 0}
+      rotation: {x: -0.004351225, y: 0.015057273, z: -0.0009032145, w: 0.9998768}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:NeckNull
+      parentName: adi1:ChestNull
+      position: {x: -0, y: 0.18087, z: 0}
+      rotation: {x: 0.053906042, y: -0.10498073, z: -0.0323697, w: 0.99248445}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:HeadNull
+      parentName: adi1:NeckNull
+      position: {x: -0, y: 0.14094, z: 0.01819}
+      rotation: {x: 0.12374659, y: -0.121102065, z: 0.067558125, w: 0.9825767}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LShoulderNull
+      parentName: adi1:ChestNull
+      position: {x: -0.03712, y: 0.13823, z: -0.00298}
+      rotation: {x: 0.013332599, y: 0.021141589, z: -0.090687424, w: 0.9955657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LUArmNull
+      parentName: adi1:LShoulderNull
+      position: {x: -0.12968999, y: 0, z: 0}
+      rotation: {x: 0.21061504, y: 0.0020738293, z: 0.11103511, w: 0.9712406}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LFArmNull
+      parentName: adi1:LUArmNull
+      position: {x: -0.26593998, y: 0, z: 0}
+      rotation: {x: 0.19456299, y: 0.026855856, z: 0.01613858, w: 0.98038954}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LHandNull
+      parentName: adi1:LFArmNull
+      position: {x: -0.2377, y: 0.00139, z: -0.00087999995}
+      rotation: {x: -0.15388896, y: 0.008254086, z: 0.052946184, w: 0.9866341}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LThumb1Null
+      parentName: adi1:LHandNull
+      position: {x: -0.022179998, y: -0.0252, z: 0.03528}
+      rotation: {x: -0.050659236, y: 0.08381675, z: -0.110497534, w: 0.98903936}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LThumb2Null
+      parentName: adi1:LThumb1Null
+      position: {x: -0.02091, y: 0, z: 0.01364}
+      rotation: {x: 0.00000109896, y: 0.2582937, z: 0.000002663581, w: 0.9660664}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LThumb3Null
+      parentName: adi1:LThumb2Null
+      position: {x: -0.02728, y: 0, z: 0}
+      rotation: {x: 0, y: -0.043933243, z: -0, w: 0.99903446}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LIndex1Null
+      parentName: adi1:LHandNull
+      position: {x: -0.09073, y: 0, z: 0.03528}
+      rotation: {x: 0, y: 0, z: 0.027799513, w: 0.9996135}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LIndex2Null
+      parentName: adi1:LIndex1Null
+      position: {x: -0.04547, y: 0, z: 0}
+      rotation: {x: 0.000000016345245, y: 0.000000051719617, z: 0.040843543, w: 0.99916553}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LIndex3Null
+      parentName: adi1:LIndex2Null
+      position: {x: -0.02273, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.027799513, w: 0.9996135}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LMiddle1Null
+      parentName: adi1:LHandNull
+      position: {x: -0.09073, y: 0, z: 0.01169}
+      rotation: {x: -0.022998977, y: 0.012595466, z: 0.060969174, w: 0.99779516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LMiddle2Null
+      parentName: adi1:LMiddle1Null
+      position: {x: -0.05001, y: 0, z: 0}
+      rotation: {x: 0.00000009872014, y: 0.0000000884756, z: 0.030014398, w: 0.99954945}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LMiddle3Null
+      parentName: adi1:LMiddle2Null
+      position: {x: -0.02728, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.13325971, w: 0.9910812}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LRing1Null
+      parentName: adi1:LHandNull
+      position: {x: -0.08569, y: 0, z: -0.01169}
+      rotation: {x: -0.049018644, y: 0.022583552, z: 0.06291093, w: 0.9965588}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LRing2Null
+      parentName: adi1:LRing1Null
+      position: {x: -0.04547, y: 0, z: 0}
+      rotation: {x: -0.00000069290377, y: 0.00000065006293, z: 0.019686224, w: 0.9998063}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LRing3Null
+      parentName: adi1:LRing2Null
+      position: {x: -0.02273, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.23721965, w: 0.97145605}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LPinky1Null
+      parentName: adi1:LHandNull
+      position: {x: -0.080649994, y: 0, z: -0.03528}
+      rotation: {x: -0.07788114, y: 0.028317006, z: 0.062051985, w: 0.99462676}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LPinky2Null
+      parentName: adi1:LPinky1Null
+      position: {x: -0.03637, y: 0, z: 0}
+      rotation: {x: -0.0000006482001, y: 0.0000003464518, z: 0.008776828, w: 0.9999615}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LPinky3Null
+      parentName: adi1:LPinky2Null
+      position: {x: -0.01819, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.3415445, w: 0.93986565}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RShoulderNull
+      parentName: adi1:ChestNull
+      position: {x: 0.03559, y: 0.13823, z: -0.00298}
+      rotation: {x: 0.08772964, y: 0.10507959, z: 0.096534945, w: 0.9858716}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RUArmNull
+      parentName: adi1:RShoulderNull
+      position: {x: 0.12968999, y: 0, z: 0}
+      rotation: {x: 0.24404791, y: -0.12910457, z: -0.06487062, w: 0.95893925}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RFArmNull
+      parentName: adi1:RUArmNull
+      position: {x: 0.26593998, y: 0, z: 0}
+      rotation: {x: 0.09997659, y: -0.022385204, z: -0.009872627, w: 0.994689}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RHandNull
+      parentName: adi1:RFArmNull
+      position: {x: 0.23812999, y: 0.01253, z: -0.01254}
+      rotation: {x: -0.77405113, y: -0.08195633, z: -0.051968355, w: 0.6256415}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RThumb1Null
+      parentName: adi1:RHandNull
+      position: {x: 0.022179998, y: -0.0252, z: 0.03528}
+      rotation: {x: 0.12568964, y: -0.0020125273, z: -0.19614828, w: 0.9724834}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RThumb2Null
+      parentName: adi1:RThumb1Null
+      position: {x: 0.02091, y: 0, z: 0.01364}
+      rotation: {x: -0.0000003352759, y: -0.2584156, z: 0.0000017508852, w: 0.9660338}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RThumb3Null
+      parentName: adi1:RThumb2Null
+      position: {x: 0.02728, y: 0, z: 0}
+      rotation: {x: 0, y: 0.06250311, z: -0, w: 0.9980448}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RIndex1Null
+      parentName: adi1:RHandNull
+      position: {x: 0.09073, y: 0, z: 0.03528}
+      rotation: {x: -0.004653125, y: -0.031932574, z: -0.07301614, w: 0.99680865}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RIndex2Null
+      parentName: adi1:RIndex1Null
+      position: {x: 0.04547, y: 0, z: 0}
+      rotation: {x: 0.0000005904582, y: -0.000004068015, z: -0.028861227, w: 0.9995835}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RIndex3Null
+      parentName: adi1:RIndex2Null
+      position: {x: 0.02273, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.14418349, w: 0.98955095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RMiddle1Null
+      parentName: adi1:RHandNull
+      position: {x: 0.09073, y: 0, z: 0.01169}
+      rotation: {x: -0.026737379, y: -0.026418542, z: -0.06729728, w: 0.9970248}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RMiddle2Null
+      parentName: adi1:RMiddle1Null
+      position: {x: 0.05001, y: 0, z: 0}
+      rotation: {x: -0.000000020489088, y: 0.0000007450577, z: -0.023275478, w: 0.9997291}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RMiddle3Null
+      parentName: adi1:RMiddle2Null
+      position: {x: 0.02728, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.20218055, w: 0.9793483}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RRing1Null
+      parentName: adi1:RHandNull
+      position: {x: 0.08569, y: 0, z: -0.01169}
+      rotation: {x: -0.04951635, y: -0.025091358, z: -0.063185155, w: 0.9964568}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RRing2Null
+      parentName: adi1:RRing1Null
+      position: {x: 0.04547, y: 0, z: 0}
+      rotation: {x: -0.0000008083877, y: 0.00000011548396, z: -0.017383493, w: 0.99984896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RRing3Null
+      parentName: adi1:RRing2Null
+      position: {x: 0.02273, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.25946805, w: 0.9657517}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RPinky1Null
+      parentName: adi1:RHandNull
+      position: {x: 0.080649994, y: 0, z: -0.03528}
+      rotation: {x: -0.074023545, y: -0.024941934, z: -0.06056241, w: 0.99510336}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RPinky2Null
+      parentName: adi1:RPinky1Null
+      position: {x: 0.03637, y: 0, z: 0}
+      rotation: {x: -0.0000005513427, y: -0.0000015161925, z: -0.011317023, w: 0.99993604}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RPinky3Null
+      parentName: adi1:RPinky2Null
+      position: {x: 0.01819, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.31756118, w: 0.9482378}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LThighNull
+      parentName: adi1:HipNull
+      position: {x: -0.09093, y: 0, z: 0}
+      rotation: {x: -0.19355996, y: 0.05045353, z: -0.12304587, w: 0.97203326}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LShinNull
+      parentName: adi1:LThighNull
+      position: {x: -0, y: -0.41457, z: 0}
+      rotation: {x: 0.24607265, y: -0.086225376, z: 0.06390516, w: 0.96329105}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LFootNull
+      parentName: adi1:LShinNull
+      position: {x: -0.00158, y: -0.41654998, z: -0.0021}
+      rotation: {x: -0.062419094, y: 0.06321495, z: 0.061275393, w: 0.9941595}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:LToeNull
+      parentName: adi1:LFootNull
+      position: {x: -0, y: -0.0591, z: 0.1364}
+      rotation: {x: 0.016997643, y: 0.015705774, z: -0.013064595, w: 0.99964684}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RThighNull
+      parentName: adi1:HipNull
+      position: {x: 0.09093, y: 0, z: 0}
+      rotation: {x: -0.0014606192, y: 0.0043490524, z: 0.066006176, w: 0.9978087}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RShinNull
+      parentName: adi1:RThighNull
+      position: {x: -0, y: -0.41457, z: 0}
+      rotation: {x: 0.12164831, y: -0.0793786, z: -0.0770384, w: 0.9863903}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RFootNull
+      parentName: adi1:RShinNull
+      position: {x: 0.0012399999, y: -0.4161, z: -0.00078}
+      rotation: {x: -0.10775632, y: 0.27610633, z: -0.031171098, w: 0.95455873}
+      scale: {x: 1, y: 1, z: 1}
+    - name: adi1:RToeNull
+      parentName: adi1:RFootNull
+      position: {x: -0, y: -0.0591, z: 0.1364}
+      rotation: {x: -0.05184796, y: -0.02341636, z: 0.009668728, w: 0.99833363}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
