@@ -72,9 +72,14 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene("Part14");
     }
-
+    
     public void ExitDariGame()
     {
         Application.Quit(0);
+    }
+
+    public void ReloadThis()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }
